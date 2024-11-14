@@ -1,8 +1,8 @@
 # Reto-2-bello-genial
-# Reto-2-Programaci-n-UNAL
-Presento mi repositorio desarrollado con sus 3 puntos
+
+En la clase N°2, de la materia de Programación de computadores, se ha pedido escribir el código y correrlo en distintos medios. 
 - "Hola mundo" en el block de notas 
-- "Hola mundo" en el intérprete de Phyton 
+- "Hola mundo" en el intérprete de Phyton(git, terminal)
 - "Hola mundo" en VS Code
 
 ## "Hola mundo" en el block de notas 
