@@ -1,10 +1,13 @@
 # Reto-2-bello-genial
 
-En la clase N°2, de la materia de Programación de computadores, se ha pedido escribir el código y correrlo en distintos medios. 
-- "Hola mundo" en el block de notas 
-- "Hola mundo" en el intérprete de Phyton(Git, terminal)
-- "Hola mundo" en VS Code
+En la clase N°2, de la materia de Programación de computadores, se ha pedido escribir un código (1) y correrlo en distintos medios. 
+- En el block de notas 
+- En el intérprete de Phyton(Git, terminal)
+- En VS Code
 
+#(1)
+'if __name__ == "__main__" :
+  print("Hola mundo")'
 ## "Hola mundo" en el block de notas 
 ![image](capturadepantalla.jpg)
 Ejecutado en CMD
