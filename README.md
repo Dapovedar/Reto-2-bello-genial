@@ -6,7 +6,7 @@ Presento mi repositorio desarrollado con sus 3 puntos
 - "Hola mundo" en VS Code
 
 ## "Hola mundo" en el block de notas 
-![image](7c98b607-e4c9-4895-810b-84ee0d22cc32.jpg)
+![image](capturadepantalla.jpg)
 Abierto y ejecutado con CMD
 
 
