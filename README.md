@@ -15,7 +15,7 @@ if __name__ == "__main__" :
 Ejecutado en CMD
 
 
-![image](f2735979-a1ee-4d09-961f-463519dc860b.jpg)
+![image]([![Comprobantedelallamada.jpg](https://i.postimg.cc/JhKxdnkT/Comprobantedelallamada.jpg)](https://postimg.cc/bGD1ZqLb))
 
 ## "Hola mundo" en el intérprete de Phyton 
 ![image](c3a2aa03-2976-4b0d-8c71-c5981eea6e25.jpg)
