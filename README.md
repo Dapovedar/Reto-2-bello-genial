@@ -5,7 +5,7 @@ En la clase N°2, de la materia de Programación de computadores, se ha pedido e
 - En el intérprete de Phyton(Git, terminal)
 - En VS Code
 
-##(1)
+### (1)
 ```
 if __name__ == "__main__" :
   print("Hola mundo")'
