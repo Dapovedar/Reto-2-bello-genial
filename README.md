@@ -16,7 +16,6 @@ A continuación, se muestra el trabajo.
 ## "Hola mundo" en el block de notas 
 [![block-de-notas.png](https://i.postimg.cc/FzYYknhb/block-de-notas.png)](https://postimg.cc/CnVhW7Bd)
 Ejecutado en CMD
-
 ## "Hola mundo" en el intérprete de Phyton 
 [![interprete.png](https://i.postimg.cc/44Yy5qTV/interprete.png)](https://postimg.cc/NLwQGNFj)
 Ejecutado en CMD
