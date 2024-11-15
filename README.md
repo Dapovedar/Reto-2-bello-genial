@@ -11,17 +11,17 @@ if __name__ == "__main__" :
   print("Hola mundo")'
 ```
 ## "Hola mundo" en el block de notas 
-![image](capturadepantalla.jpg)
+[![block-de-notas.png](https://i.postimg.cc/FzYYknhb/block-de-notas.png)](https://postimg.cc/CnVhW7Bd)
 Ejecutado en CMD
 
 
 [![Comprobantedelallamada.jpg](https://i.postimg.cc/JhKxdnkT/Comprobantedelallamada.jpg)](https://postimg.cc/bGD1ZqLb)
 
 ## "Hola mundo" en el intérprete de Phyton 
-![image](c3a2aa03-2976-4b0d-8c71-c5981eea6e25.jpg)
+[![interprete.png](https://i.postimg.cc/44Yy5qTV/interprete.png)](https://postimg.cc/NLwQGNFj)
 Ejecutado en CMD
-![image](f2735979-a1ee-4d09-961f-463519dc860b.jpg)
+[![gitbash.png](https://i.postimg.cc/j2BLHQjp/gitbash.png)](https://postimg.cc/GTJLrDGK)
 Ejecutado en Git
 ## "Hola mundo" en VS Code
-![image](d6553a89-cb59-428a-9e42-34182c29d135.jpg)
+[![vs-code.png](https://i.postimg.cc/Ssy8RrXV/vs-code.png)](https://postimg.cc/xk4qFL3b)
 
