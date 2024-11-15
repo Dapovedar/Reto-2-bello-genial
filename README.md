@@ -10,6 +10,9 @@ En la clase N°2, de la materia de Programación de computadores, se ha pedido e
 if __name__ == "__main__" :
   print("Hola mundo")'
 ```
+
+A continuación, se muestra el trabajo.
+
 ## "Hola mundo" en el block de notas 
 [![block-de-notas.png](https://i.postimg.cc/FzYYknhb/block-de-notas.png)](https://postimg.cc/CnVhW7Bd)
 Ejecutado en CMD
