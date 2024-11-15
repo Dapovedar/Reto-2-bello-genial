@@ -19,6 +19,8 @@ Ejecutado en CMD
 ## "Hola mundo" en el intérprete de Phyton 
 [![interprete.png](https://i.postimg.cc/44Yy5qTV/interprete.png)](https://postimg.cc/NLwQGNFj)
 Ejecutado en CMD
+
+
 [![gitbash.png](https://i.postimg.cc/j2BLHQjp/gitbash.png)](https://postimg.cc/GTJLrDGK)
 Ejecutado en Git
 ## "Hola mundo" en VS Code
