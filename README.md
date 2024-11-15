@@ -14,9 +14,6 @@ if __name__ == "__main__" :
 [![block-de-notas.png](https://i.postimg.cc/FzYYknhb/block-de-notas.png)](https://postimg.cc/CnVhW7Bd)
 Ejecutado en CMD
 
-
-[![Comprobantedelallamada.jpg](https://i.postimg.cc/JhKxdnkT/Comprobantedelallamada.jpg)](https://postimg.cc/bGD1ZqLb)
-
 ## "Hola mundo" en el intérprete de Phyton 
 [![interprete.png](https://i.postimg.cc/44Yy5qTV/interprete.png)](https://postimg.cc/NLwQGNFj)
 Ejecutado en CMD
